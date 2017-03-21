@@ -1,6 +1,6 @@
 # XianghorseViewTool
 
-Various view specific methods for the Xiang Horse website. Currently supports generating a copyright tag.
+A ruby gem that contains various view specific methods for the Xiang Horse website. Currently supports generating a copyright tag.
 
 ## Installation
 
