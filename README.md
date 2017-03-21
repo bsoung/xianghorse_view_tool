@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Contains a method called "copyright" which takes a name and messagage argument.
+Contains a method called "copyright" which takes a name and message argument.
 
 ## Development
 
