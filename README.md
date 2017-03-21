@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-Contains a method called "copyright" which takes a name and message argument.
+```
+def set_copyright
+	@copyright = XiangHorseViewTool::Renderer.copyright 'Xiang Ma', 'All rights reserved'
+end
+```
 
 ## Development
 
