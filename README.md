@@ -20,10 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-```
-def set_copyright
-	@copyright = XiangHorseViewTool::Renderer.copyright 'Xiang Ma', 'All rights reserved'
-end
+```ruby
+@copyright = XiangHorseViewTool::Renderer.copyright 'Xiang Ma', 'All rights reserved'
 ```
 
 ## Development
